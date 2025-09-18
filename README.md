@@ -1,4 +1,4 @@
-# DesktopGoose 项目
+# DesktopGoose 项目(预想)
 
 一个基于Android的桌面宠物应用，模拟经典的桌面鹅互动体验。
 
@@ -37,4 +37,5 @@ DesktopGoose/
 欢迎提交Pull Request，请遵循以下规范：
 - 代码风格遵循Kotlin官方规范
 - 提交信息使用英文描述
+
 - 新功能需附带单元测试
